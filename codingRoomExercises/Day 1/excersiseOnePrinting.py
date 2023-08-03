@@ -1,6 +1,7 @@
-// desired Output: Day 1 - Python Print Function
-//                         The function is declared like this:
-//                         print('what to print')
+// desired Output: 
+// Day 1 - Python Print Function
+// The function is declared like this:
+// print('what to print')
 
 // My Solution:
 
