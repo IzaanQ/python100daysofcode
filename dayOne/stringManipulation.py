@@ -5,5 +5,6 @@ print("Hello World! \nHello World! \nHello World!")
 
 print("Hello" + "Izaan")
 print("Hello" + " Izaan")
+print("Hello " + "Izaan")
 
 # String concactenation is when you combine to strings in Python in order to output is as one.
