@@ -1,4 +1,4 @@
-input("What is your name?")
+input("What is your name? ")
 
 # Reminder: Whatever is passed by the user in the console as a result of this function is returned back to the function
 
