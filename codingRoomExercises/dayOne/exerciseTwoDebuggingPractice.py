@@ -1,4 +1,4 @@
-# Desired Output:
+# Instructions: Desired Output: 
 # Day 1 - String Manipulation
 # String Concatenation is done with the "+" sign.
 # e.g. print("Hello " + "world")
