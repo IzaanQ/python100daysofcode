@@ -18,4 +18,8 @@ print(name)
 name = "qaiser"
 print(name)
 
-# There is no protection to keep a variable constant. If it is subject to change, it allows that change without conesting.
+# There is no protection to keep a variable constant. If it is subject to change, it allows that change without contesting.
+
+name = input("What is your name? ")
+length = len(name)
+print(length)
