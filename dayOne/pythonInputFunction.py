@@ -5,3 +5,4 @@ input("What is your name")
 # function. The original Input Function is replaced with the value that the user send back via the console. 
 
 print("Hello " + input("What is your name"))
+print("Hello " + input("What is your name?"))
