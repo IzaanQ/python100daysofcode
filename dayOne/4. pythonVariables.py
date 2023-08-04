@@ -9,3 +9,13 @@ name = input("What is your name? ")
 
 name = input("What is your name? ")
 print(name)
+
+# Variables can be changed in python. It can be re-assigned later in the code or 'updated'
+
+name = "Izaan"
+print(name)
+
+name = "qaiser"
+print(name)
+
+# There is no protection to keep a variable constant. If it is subject to change, it allows that change without conesting.
