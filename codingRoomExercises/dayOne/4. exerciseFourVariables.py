@@ -4,8 +4,8 @@
 # Given:
 # 
 # 🚨 Don't change the code below 👇
-a = input("a: ")
-b = input("b: ")
+print("a = " + a)
+print("b = " + b)
 # 🚨 Don't change the code above 👆
 
 # My Plan:
