@@ -7,3 +7,5 @@ input("What is your name")
 print("Hello " + input("What is your name"))
 print("Hello " + input("What is your name?"))
 print("Hello " + input("What is your name? "))
+
+# The code is read from inside-out, reading each sucessive layer, like an onion.
