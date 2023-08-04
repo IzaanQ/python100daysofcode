@@ -22,8 +22,11 @@ print("a: " + a)
 print("b: " + b)
 
 # My Plan:
-# b = input(a: )
-# a = input(b: )
+# c = a
+# d = b
+# 
+# a = d
+# b = c
 
 # My Solution:
 
