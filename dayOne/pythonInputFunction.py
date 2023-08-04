@@ -1,4 +1,4 @@
 input("What is your name")
 
-# The \n is an embedded symbol in the Python language memory that indicates the creation of a new line while printing. This causes
-# printing on a new line, even if there is only one print 'function'
+# The Input Function is an embedded function in the Python language memory that displays to the console a prompt that is predetermined by the 
+# writer, which then is able to accept a user value via the console
