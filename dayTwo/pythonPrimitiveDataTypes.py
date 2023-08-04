@@ -1,1 +1,1 @@
-#Data Types
+print(len("hello"))
