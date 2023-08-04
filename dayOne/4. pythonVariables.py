@@ -4,4 +4,5 @@ input("What is your name?")
 
 name = input("What is your name?")
 
-# This is called variable assignment. By doing this, we can assing the Input fun
+# This is called variable assignment. By doing this, we can assign the input function return value to the variable name. We can refer to this value
+# at any tiem as it is saved in the program.
