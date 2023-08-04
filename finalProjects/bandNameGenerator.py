@@ -1,8 +1,7 @@
 print("Welcome to the Band Name Generator!")
-
 cityName = input("What city did you grow up in? ")
 
-#3. Ask the user for the name of a pet.
+petName = input("What is your childhood pet's name? ")
 
 #4. Combine the name of their city and pet and show them their band name.
 
