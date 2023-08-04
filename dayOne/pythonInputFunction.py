@@ -13,3 +13,5 @@ print("Hello " + input("What is your name? "))
 # To comment out a line of code, select the code line, then "Ctrl + /"
 
 # print("Hello " + input("What is your name? "))
+
+# You can use "Ctrl + /" or "Ctrl + z" to uncomment code.
