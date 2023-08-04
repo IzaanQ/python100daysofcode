@@ -8,3 +8,4 @@ name = input("What is your name?")
 # at any tiem as it is saved in the program.
 
 name = input("What is your name?")
+print(name)
