@@ -19,3 +19,14 @@ print("hello"[0])
 # Integer
 123, 456
 # Whole Numbers in Python
+
+# Large Integers
+123,456,789 => 123_456_789
+
+# Floating Point Number
+3.14159, 7.4
+# Decimal numbers in Python
+
+# Boolean
+True, False
+# Case-sensitive, 
