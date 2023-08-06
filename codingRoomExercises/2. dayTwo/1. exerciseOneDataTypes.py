@@ -14,4 +14,19 @@ two_digit_number = input("Type a two digit number: ")
 # My Plan:
 # Input String value 0 = number 1
 # Input String value 1 = number 2
-# Ouput Sum value = number 1 + nuber 2
+# Convert both string values into integers
+# Ouput Sum value = number 1 + number 2
+# Print output sum value
+
+# My Solution:
+numberOne = two_digit_number[0]
+numberTwo = two_digit_number[1]
+
+evalNumberOne = int(numberOne)
+evalNumberTwo = int(numberTwo)
+
+outputSum = evalNumberOne + evalNumberTwo
+
+print(outputSum)
+
+# Result:
