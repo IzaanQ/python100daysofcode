@@ -6,4 +6,4 @@ type(variable name)
 
 # Type Changing/Casting
 new variable = str(variable name) # Turns old variable into a string
-new variable = int(variable name)
+new variable = int(variable name) # Turns old variable into an integer
