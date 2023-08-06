@@ -15,3 +15,12 @@
 # Declare Variable for users Height
 # Declare Variable for users Weight
 # Declare BMI variable using BMI Formula (BMI = w/h^2)
+# Convert BMI variable to integer
+# Print BMI integer value
+
+# My Solution:
+bmi = (weight/(height*height))
+bmiValue = int(bmi)
+print(bmiValue)
+
+# Results: 
