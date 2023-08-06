@@ -29,4 +29,4 @@ print("hello"[0])
 
 # Boolean
 True, False
-# Case-sensitive, 
+# Case-sensitive, used for testing for true or false cases
