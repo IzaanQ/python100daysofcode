@@ -3,3 +3,7 @@
 
 type(variable name)
 # You can use this function to check the type of the variable that is passed through
+
+# Type Changing/Casting
+new variable = str(variable name) # Turns old variable into a string
+new variable = int(variable name)
