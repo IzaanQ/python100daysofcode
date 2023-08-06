@@ -24,7 +24,7 @@ print("b: " + b)
 # My Plan:
 # c = a
 # d = b
-# 
+
 # a = d
 # b = c
 
