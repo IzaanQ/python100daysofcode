@@ -16,3 +16,6 @@ print("hello"[0])
 # >'h'
 # Remember that programmers start counting inclusive of zero
 
+# Integer
+123, 456
+# Whole Numbers in Python
