@@ -12,15 +12,21 @@
 #Write your code below this line 👇
 
 # My Plan:
-# Declare Variable for users Height
-# Declare Variable for users Weight
-# Declare BMI variable using BMI Formula (BMI = w/h^2)
-# Convert BMI variable to integer
-# Print BMI integer value
+# Put string value variables into BMI formula and convert to int and float respectively
+# Convert BMI value to integer
+# Print BMI value
 
 # My Solution:
-bmi = (weight/(height*height))
+# 🚨 Don't change the code below 👇
+height = input("enter your height in m: ")
+weight = input("enter your weight in kg: ")
+# 🚨 Don't change the code above 👆
+
+#Write your code below this line 👇
+bmi = int(weight)/float(height)**2
+
 bmiValue = int(bmi)
+
 print(bmiValue)
 
-# Results: 
+# Results: 100% Match
