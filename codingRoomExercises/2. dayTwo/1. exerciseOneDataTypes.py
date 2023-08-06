@@ -50,3 +50,6 @@ unittest.main(verbosity=1, exit=False)
 os.remove("testing_copy.py") 
 
 # My Plan:
+# Input String value 0 = number 1
+# Input String value 1 = number 2
+# Ouput Sum value = number 1 + nuber 2
